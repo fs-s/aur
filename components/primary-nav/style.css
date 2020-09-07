@@ -1,0 +1,12 @@
+.primary-nav {
+    background-color: #171a21;
+    flex: 1;
+    display: flex;
+    align-items: center;
+    padding: 1rem 10rem;
+}
+
+.nav-items span{
+    color: #b8b6b4;
+    text-transform: uppercase;
+}
